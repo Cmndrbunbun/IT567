@@ -6,7 +6,7 @@ Allows for multiple ports to be scanned. 10pts
 Does all Protocols and searches for open ports that way. 15pts
 Results print based on searched hosts to a text file. 10pts
 Displays time took to scan. 5pts
-Allows for Ctrl-C Interrupt (CHECK THAT USABILITY)
+Allows for Ctrl-C Interrupt (CHECK THAT USABILITY) 5pts
 
 Prompts are as follows:
 1. Enter Y or N if you are going to use a list of hosts.
