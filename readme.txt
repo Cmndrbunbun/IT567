@@ -15,3 +15,7 @@ Prompts are as follows:
 3.  Enter the upper bound of ports to scan
 The Scanner will now print in CLI as it checks all the ports.
 It will save a text file in this format "HostIP.txt" for each host IP
+
+
+I used the following as a template
+http://www.pythonforbeginners.com/code-snippets-source-code/port-scanner-in-python
